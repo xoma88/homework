@@ -1,0 +1,9 @@
+Установить angular CLI
+Создать проект
+
+Написать резюме о себе и вывести информацию в AppComponent
+
+
+в дз скинуть ссылку на репозиторий с заданием
+
+https://github.com/xoma88/homework/tree/master/01/summary
